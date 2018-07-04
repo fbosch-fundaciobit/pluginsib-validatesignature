@@ -1,0 +1,3 @@
+org\fundaciobit\plugins\validatesignature\api\test\AbstractTestValidateSignature.class
+org\fundaciobit\plugins\validatesignature\api\test\SignatureValidationTestResult.class
+org\fundaciobit\plugins\validatesignature\api\test\Test.class

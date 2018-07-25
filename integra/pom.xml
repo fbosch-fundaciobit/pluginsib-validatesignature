@@ -13,12 +13,6 @@
   </parent>
   <url>http://maven.apache.org</url>
   <dependencies>
-    <!--XXX<dependency>
-      <groupId>org.fundaciobit.plugins</groupId>
-      <artifactId>plugins-api</artifactId>
-      <version>1.0.0</version>
-      <scope>provided</scope>
-    </dependency>-->
     <dependency>
       <groupId>org.fundaciobit.pluginsib.validatesignature</groupId>
       <artifactId>pluginsib-validatesignature-api</artifactId>
@@ -89,9 +83,9 @@
     </dependency>
     <dependency>
       <!-- reuse src/test/java code from plugin-validatesignature-api  -->
-      <groupId>org.fundaciobit.plugins</groupId>
-      <artifactId>plugin-validatesignature-api</artifactId>
-      <version>1.0.0</version>
+      <groupId>org.fundaciobit.pluginsib.validatesignature</groupId>
+      <artifactId>pluginsib-validatesignature-api</artifactId>
+      <version>2.0.0</version>
       <scope>test</scope>
       <classifier>tests</classifier>
     </dependency>

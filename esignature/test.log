@@ -1,0 +1,6 @@
+INFO main org.apache.cxf.service.factory.ReflectionServiceFactoryBean - Creating Service {http://validation.dss.esig.europa.eu/}SoapDocumentValidationServiceImplService from WSDL: http://localhost:80/services/soap/validation?wsdl
+ INFO main org.apache.cxf.service.factory.ReflectionServiceFactoryBean - Creating Service {http://validation.dss.esig.europa.eu/}SoapDocumentValidationServiceImplService from WSDL: http://localhost:80/services/soap/validation?wsdl
+ INFO main org.apache.cxf.service.factory.ReflectionServiceFactoryBean - Creating Service {http://validation.dss.esig.europa.eu/}SoapDocumentValidationServiceImplService from WSDL: http://localhost:80/services/soap/validation?wsdl
+ INFO main org.apache.cxf.service.factory.ReflectionServiceFactoryBean - Creating Service {http://validation.dss.esig.europa.eu/}SoapDocumentValidationServiceImplService from WSDL: http://localhost:80/services/soap/validation?wsdl
+ INFO main org.apache.cxf.service.factory.ReflectionServiceFactoryBean - Creating Service {http://validation.dss.esig.europa.eu/}SoapDocumentValidationServiceImplService from WSDL: http://localhost:8888/services/soap/validation?wsdl
+ 
